@@ -16,7 +16,7 @@ Just a simple puzzle game. Line up the six colored tiles in less than 201 moves 
 
 - Include the plugin js code
 
-<script type="text/javascript" src="js/colorpuzzle.js"></script>
+`<script type="text/javascript" src="js/colorpuzzle.js"></script>`
 
 - Create an empty container like <div id="my_colorpuzzle"></div>
 
