@@ -21,13 +21,16 @@ Just a simple puzzle game. Line up the six colored tiles in less than 201 moves 
 - Create an empty container like <div id="my_colorpuzzle"></div>
 
 - Make it a fully functional color puzzle
-`<script type="text/javascript">
+
+`
+<script type="text/javascript">
 	$(document).ready(function () {
 		$('#my_colorpuzzle').colorpuzzle({
 			'max_moves': 201, /* set your max moves limit*/
 		});
 	});
-</script>`
+</script>
+`
 
 - Game controls: 
 Move each colored tile to the closest gap just by clicking on it
